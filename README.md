@@ -16,7 +16,11 @@ and then type 16 lowercase characters.
     ijkl  
     mnop  
 ```
-a list of results will be returned.
+a list of results will be returned like so
+
+```
+['jink', 'knife', 'fink', 'plonk', 'mink', 'jin', 'knop', 'kop', 'jo', 'fino', 'ink', 'glop', 'fie', 'fin', 'ef', 'if', 'lop', 'nim', 'fa', 'pol', 'ab', 'be', 'ba', 'mi', 'op', 'ae', 'in', 'no', 'lo', 'on']
+```
 
 
 ### Test
