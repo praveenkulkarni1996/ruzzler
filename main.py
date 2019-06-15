@@ -1,5 +1,6 @@
-from trie import *
-from board import *
+from __future__ import print_function
+from board import Board
+from trie import Trie, add_words_from_file
 
 def build_trie_from_filename(filename):
     root = Trie()
